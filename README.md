@@ -38,3 +38,9 @@ This includes the functions used during the analysis;
 ``` Excel
 Select * FROM Table 1
 WHERE sales = > 10
+```
+
+### Data Visualization
+---
+
+![Screenshot 2024-09-18 170518](https://github.com/user-attachments/assets/2432fd5b-c3fe-453d-964a-2aa118f230bf)
