@@ -3,6 +3,20 @@
 This is a documentation of my first project while learning Data Analysis with The Incubator Hub
 ### Project Title : Adidas Sales Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+Tools Used
+
+Data Cleaning and Preparations
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization
+
 ### Project Overview
 ---
 
@@ -44,3 +58,10 @@ WHERE sales = > 10
 ---
 
 ![Screenshot 2024-09-18 170518](https://github.com/user-attachments/assets/2432fd5b-c3fe-453d-964a-2aa118f230bf)
+
+
+🥇
+
+| Heading 1| Heading 2| Heading 3|
+|----------|----------|----------|
+| Table 1| Table 2 | Table 3|
