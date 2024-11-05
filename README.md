@@ -49,7 +49,7 @@ EDA involed the exploration of the Data to answer questions such as;
 ---
 This includes the functions used during the analysis;
 
-Pivot Table for summarizing the data for visualization
+Pivot Table for summarizing the data for visualization ( This is a different data set similar to the adidas dataset)
 
 ![image](https://github.com/user-attachments/assets/906788b4-4924-488c-a64d-e2461b7917e3)
 
