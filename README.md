@@ -7,15 +7,15 @@ This is a documentation of my first project while learning Data Analysis with Th
 
 [Data Sources](#data-sources)
 
-Tools Used
+[Tools Used](#tools-used)
 
-Data Cleaning and Preparations
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
-Exploratory Data Analysis
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-Data Analysis
+[Data Analysis](#data-analysis)
 
-Data Visualization
+[Data Visualization](#data-visualization)
 
 ### Project Overview
 ---
@@ -49,19 +49,12 @@ EDA involed the exploration of the Data to answer questions such as;
 ---
 This includes the functions used during the analysis;
 
-``` Excel
-Select * FROM Table 1
-WHERE sales = > 10
-```
+Pivot Table for summarizing the data for visualization
+
+![image](https://github.com/user-attachments/assets/906788b4-4924-488c-a64d-e2461b7917e3)
 
 ### Data Visualization
 ---
 
 ![Screenshot 2024-09-18 170518](https://github.com/user-attachments/assets/2432fd5b-c3fe-453d-964a-2aa118f230bf)
 
-
-🥇
-
-| Heading 1| Heading 2| Heading 3|
-|----------|----------|----------|
-| Table 1| Table 2 | Table 3|
